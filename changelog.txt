@@ -1,10 +1,14 @@
 V0.1:
 - Started testing with the dialogue to relationship system. got basic concept down.
 - image system developed
-- 
+
+V.0.1.1:
+- added basic action menu
+- added movement function (both are still very WIP)
+- added early relationship level code
 
 
-
+(ignore this, just using this in replit for safe keeping)
 def dialogue_test():
     decide = input("a or b? ")
     relationship_level = range(0, 25)
